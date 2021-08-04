@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "description": {
+            "version": 2
+        },
+        "application": {
+            "name": "application_name"
+        }
+    },
+    "services": [
+		{
+			"service-short-name": "TEST_1"
+		}
+	
+    ],
+    "artifacts": [ 
+
+    ],
+    "script": [
+
+    ],
+    "parameters": {
+
+    }
+}
